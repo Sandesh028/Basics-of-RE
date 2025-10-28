@@ -1,5 +1,10 @@
 # Basics-of-RE
 ---
+### Tools:
+- Ghidra: https://github.com/NationalSecurityAgency/ghidra/releases
+- Binary Ninja: https://cloud.binary.ninja/login/
+
+
 
 
 # 🧠 Reverse Engineering with GDB: Vulnerable vs Benign Programs
